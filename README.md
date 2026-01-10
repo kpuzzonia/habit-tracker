@@ -3,6 +3,7 @@
  ### 1/10/2026
  * Updated background images and text styling.
  * Created and linked JavScript file.
+ * Started updates to headings and calendar, but am getting violations for how long it's taking the script to run. May need. to separate JS functions into different files. 
 
  ### 1/9/2026
  * Continued setting up main HTML structure. Put all assets in one folder. Added CSS styling.
